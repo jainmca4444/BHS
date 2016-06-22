@@ -11,3 +11,8 @@ Game itself has 1.5625% house edge. So your profit will be around 1.5625% from t
 
 The   this line is add by jainji praveen default ratio between amount in wallet and max available bet is set to 25. So for example if you want to allow players to bet 1 BTC you have to have 25 BTC in wallet. Function checks this every time player clicks on SPIN and if in wallet is not enough funds, it won't let him to bet that amount. If you think it's not enough you can store in your wallet more.
 
+
+sfsdfksdfnsdf sa
+'sdfnsdkfksdf
+sflkksdnfksdf
+fdf
