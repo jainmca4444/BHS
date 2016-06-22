@@ -1,1 +1,11 @@
 havsdhvasdvasd asdasdvaNow it again edited by me
+
+
+Main feature is that you can run it on every bitcoin-like wallet installed on your server. Only thing you have to do is to choose currency during installation process.
+Everything is fully automated and after installation coinwheel will take care of itself so you can focus on something more important.
+
+Our product also have auto installation script which will help you to set everything important to launch it. It includes step by step instructions and process itself shouldn’t require more than basic computer skills.
+
+Game itself has 1.5625% house edge. So your profit will be around 1.5625% from total wagered coins. More people will be betting there more you will be able to earn.
+
+The default ratio between amount in wallet and max available bet is set to 25. So for example if you want to allow players to bet 1 BTC you have to have 25 BTC in wallet. Function checks this every time player clicks on SPIN and if in wallet is not enough funds, it won't let him to bet that amount. If you think it's not enough you can store in your wallet more.
